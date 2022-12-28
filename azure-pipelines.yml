@@ -12,5 +12,5 @@ pool:
 steps:
 
 - script: |
-    echo 'Hello World DEV 2022 2023 2024 CRISTIAN'
-  displayName: 'Hello World DEV 2022 2023 2024 CRISTIAN'
+    echo 'Hello World DEV 2022 CRISTIAN'
+  displayName: 'Hello World DEV 2022 CRISTIAN'
