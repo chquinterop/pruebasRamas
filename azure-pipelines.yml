@@ -12,8 +12,5 @@ pool:
 steps:
 
 - script: |
-feature/dev_01
-    echo 'Hello World DEV 2023 2024 2025'
-  displayName: 'Hello World DEV 2023 2024 2025'
-
- dev
+    echo 'Hello World DEV 2022 2023'
+  displayName: 'Hello World DEV 2022 2023'
