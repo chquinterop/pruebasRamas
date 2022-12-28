@@ -5,6 +5,8 @@
 
 trigger:
 - dev
+- pre-prod
+- prod
 
 pool:
   vmImage: ubuntu-latest
